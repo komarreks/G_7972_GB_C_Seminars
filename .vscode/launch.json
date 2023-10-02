@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // Если вы изменили требуемые версии .NET Framework, обязательно обновите путь к программе.
-            "program": "${workspaceFolder}/Seminar01Task8/bin/Debug/net7.0/Seminar01Task8.dll",
+            "program": "${workspaceFolder}/Seminar08Task62/bin/Debug/net7.0/Seminar08Task62.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Seminar01Task8",
+            "cwd": "${workspaceFolder}/Seminar08Task62",
             // Дополнительные сведения о поле \"console\" см. в https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
